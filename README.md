@@ -63,7 +63,23 @@ Features:
 ![ReBreatheCanvas](https://user-images.githubusercontent.com/45783229/173380388-31979fe2-7ff8-46ab-b48c-62cf1eadede4.jpg)
 
 
+### NFTCam: NFT Selfie Camera
+NFTCam enables you to take selfies with your NFTs, customise it and create NFTs out of them.
 
+
+Built using: Swift, and SwiftUI
+
+Dependencies: OpenSea SDK, Wallet Connect, Firebase Storage
+Architecture: MVVM
+
+Features:
+
+- Connect your Metamask wallet to directly view your NFTs in the app
+- Customise selfies with custom generated NFT stickers
+- Social feed to track what others are creating
+
+
+![NFTCamCanvas](https://user-images.githubusercontent.com/45783229/173383363-a2f5493e-34cf-47b1-903d-615681673a98.jpg)
 
 <!---
 yashpoojary19/yashpoojary19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
