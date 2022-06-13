@@ -16,7 +16,6 @@ A simple calculator app with a neumorphic user interface made for for iPad & iPh
 Built using: Swift and SwiftUI
 
 Additional: Firebase Anonymous Event Tracking (Fun fact: Number 5 is the most used number.)
-
 Architecture:  MVVM
 
 Features:
@@ -31,9 +30,8 @@ Features:
 Schedulr is an app for scheduling calls without email. You can generate and share calendar invites directly without needing an email address.
 Built Using: Objective C, Swift, SwiftUI
 
-Additional: GoogleAPIClient for creating the calendar invite
-
-Architecture:  MVVM
+Dependencies: GoogleAPIClient for creating calendar invites
+Architecture: MVVM
 
 Features:
 
@@ -46,7 +44,23 @@ Features:
 ![SchedulrCanvas](https://user-images.githubusercontent.com/45783229/173371850-301e23ab-bfca-4d32-8532-1174e9a7d86b.jpg)
 
 
+### Rebreathe: Guided Breathwork
+Rebreathe makes breath work simple. Providing guided sessions to help you focus, relax and sleep.
 
+Built using: AVFoundation, Swift, and SwiftUI
+
+Dependencies: Firebase Storage, Alamofire, RevenueCat Purchases SDK
+Architecture: MVVM
+
+Features:
+
+- Guided meditation sessions of variable lengths
+- Upgrade to pro version to unlock all sessions
+- Detailed analysis of sessions, streaks and listen time
+- Explore new sessions from various categories such as trending and what’s new
+
+
+![ReBreatheCanvas](https://user-images.githubusercontent.com/45783229/173380388-31979fe2-7ff8-46ab-b48c-62cf1eadede4.jpg)
 
 
 
