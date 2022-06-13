@@ -13,7 +13,7 @@
 
 ### Calculatr: Count On Me
 A simple calculator app with a neumorphic user interface made for for iPad & iPhone. In this ever-changing world, a calculator is something you can always count on. That about sums it up.
-Languages Used: Swift and SwiftUI
+Built using: Swift and SwiftUI
 
 Additional: Firebase Anonymous Event Tracking (Fun fact: Number 5 is the most used number.)
 
@@ -26,6 +26,24 @@ Features:
 
 ![CalculatorCanvas](https://user-images.githubusercontent.com/45783229/173370121-8edd64e1-66b7-4dd2-91f3-9c82b31e9547.jpg)
 
+
+### Schedulr: Schedule calls without email
+Schedulr is an app for scheduling calls without email. You can generate and share calendar invites directly without needing an email address.
+Built Using: Objective C, Swift, SwiftUI
+
+Additional: GoogleAPIClient for creating the calendar invite
+
+Architecture:  MVVM
+
+Features:
+
+- No login required
+- Time zone support
+- Share directly on WhatsApp, Telegram, Email, and all other messaging apps
+- Supports all major calendars: Google, Exchange, iCloud, and more
+
+
+![SchedulrCanvas](https://user-images.githubusercontent.com/45783229/173371850-301e23ab-bfca-4d32-8532-1174e9a7d86b.jpg)
 
 
 
