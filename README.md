@@ -16,6 +16,7 @@ A simple calculator app with a neumorphic user interface made for for iPad & iPh
 Built using: Swift and SwiftUI
 
 Additional: Firebase Anonymous Event Tracking (Fun fact: Number 5 is the most used number.)
+
 Architecture:  MVVM
 
 Features:
@@ -31,6 +32,7 @@ Schedulr is an app for scheduling calls without email. You can generate and shar
 Built Using: Objective C, Swift, SwiftUI
 
 Dependencies: GoogleAPIClient for creating calendar invites
+
 Architecture: MVVM
 
 Features:
@@ -50,6 +52,7 @@ Rebreathe makes breath work simple. Providing guided sessions to help you focus,
 Built using: AVFoundation, Swift, and SwiftUI
 
 Dependencies: Firebase Storage, Alamofire, RevenueCat Purchases SDK
+
 Architecture: MVVM
 
 Features:
@@ -70,6 +73,7 @@ NFTCam enables you to take selfies with your NFTs, customise it and create NFTs 
 Built using: Swift, and SwiftUI
 
 Dependencies: OpenSea SDK, Wallet Connect, Firebase Storage
+
 Architecture: MVVM
 
 Features:
