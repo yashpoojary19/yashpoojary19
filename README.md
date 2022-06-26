@@ -4,7 +4,7 @@
 [Schedulr](https://apps.apple.com/in/app/schedulr-send-calendar-invite/id1603995833),
 [Rebreathe](https://testflight.apple.com/join/oPXy4oSU),
 [NFTCam](https://testflight.apple.com/join/uDk8dJ9d), and
-[Pomodoro Timer] (https://testflight.apple.com/join/9GnEvOr6)
+[Time Yourself](https://testflight.apple.com/join/9GnEvOr6)
 
 ![App Main Dock](https://user-images.githubusercontent.com/45783229/175803552-3f5d258b-1986-4ede-8e74-5542431157a2.jpg)
 
