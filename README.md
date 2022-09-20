@@ -2,7 +2,7 @@
 ### I've built and launched 5 apps:
 
 [Time Yourself](https://testflight.apple.com/join/9GnEvOr6),
-[NFTCam](https://testflight.apple.com/join/uDk8dJ9d),
+[NFTCam](https://apps.apple.com/in/app/nftcam/id1620342441),
 [Rebreathe](https://testflight.apple.com/join/oPXy4oSU),
 [Schedulr](https://apps.apple.com/in/app/schedulr-send-calendar-invite/id1603995833), and
 [Calculatr](https://apps.apple.com/in/app/calculatr-count-on-me/id1605761138).
