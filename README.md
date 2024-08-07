@@ -19,7 +19,7 @@
 ### Time Yourself: Pomodoro Timer (Mac App) 
 Time Yourself is a productivity app designed for your work and study requirements.
 
-Built using: Swift, SwiftUI and UIKit
+Built using: Swift, SwiftUI and AppKit
 
 Architecture: MVVM
 
@@ -74,7 +74,7 @@ Features:
 
 ### Schedulr: Schedule calls without email
 Schedulr is an app for scheduling calls without email. You can generate and share calendar invites directly without needing an email address.
-Built Using: Objective C, Swift, SwiftUI
+Built Using: Objective C, Swift, SwiftUI, AppKit
 
 Dependencies: GoogleAPIClient for creating calendar invites
 
