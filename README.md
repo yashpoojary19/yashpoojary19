@@ -1,4 +1,4 @@
-# Hola, I like to build. Here's some of my apps:
+# Hola, I like to build. Here are some of my apps:
 
 [Time Yourself](https://testflight.apple.com/join/9GnEvOr6),
 [NFTCam](https://apps.apple.com/in/app/nftcam/id1620342441),
